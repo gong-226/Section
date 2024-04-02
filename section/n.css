@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    background-color: purple;
+    height: 10vh;
+}
+
+img {
+    width: 100%;
+    height: 40px;
+}
+
+
+main {
+    width: 100%;
+    height: 90vh;
+    background-color: orange;
+    background-image: url(https://media.contentapi.ea.com/content/dam/eacom/pvz/pvz2/images/common/4242-pvz2-power-mints-social.png.adapt.crop16x9.575p.png);
+    background-size: cover;
+}
+
+
+footer {
+    width: 100%;
+    height: 10vh;
+    background-color: orange;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+    font-size: 50px;
+}
+
+
+.About>img {
+    width: 40%;
+    height: 500px;
+}
+
+.about_text {
+    width: 45%;
+    display: inline-block;
+}

@@ -1,0 +1,9 @@
+img{
+    width: 100%;
+}
+
+body{
+    background-color: gray;
+    margin: auto 600px;
+    padding: 20px;
+}
